@@ -1,5 +1,5 @@
 # Halo semua! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Perkenalkan nama saya [M. Dzikri Alfarisyi!](https://www.linkedin.com/in/dzik16/) 
-Saya cuma seorang manusia yang suka rebahan.
+...........................
 
 ### About Me 🚀
 🌱 I’m a Mobile Developer. </br>
@@ -7,8 +7,8 @@ Saya cuma seorang manusia yang suka rebahan.
 
 <p align="left">
 <a href="https://github.com/dzik16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KemalYF&show_icons=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KemalYF&layout=compact&langs_count=8&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzik16&show_icons=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dzik16&layout=compact&langs_count=8&hide_border=true"/>
 </a>
 </p>
 

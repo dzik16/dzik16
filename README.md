@@ -1,9 +1,8 @@
 # Halo semua! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Perkenalkan nama saya [M. Dzikri Alfarisyi!](https://www.linkedin.com/in/dzik16/) 
-...........................
 
 ### About Me 🚀
 🌱 I’m a Mobile Developer. </br>
-👨‍💻  I am passionate about Android Developer & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Mobile Developer & I enjoy learning new things. </br>
 
 <p align="left">
 <a href="https://github.com/dzik16">

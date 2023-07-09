@@ -1,4 +1,4 @@
-# Halo semua! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Perkenalkan nama saya [M. Dzikri Alfarisyi!](https://www.linkedin.com/in/dzik16/) 
+# Hi everyone! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, i'm [M. Dzikri Alfarisyi!](https://www.linkedin.com/in/dzik16/) 
 
 ### About Me 🚀
 🌱 I’m a Mobile Engineer Enthusiast. </br>

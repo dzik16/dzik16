@@ -4,7 +4,7 @@
 🌱 I’m a Mobile Engineer Enthusiast. </br>
 🐣 I’m a Quality Assurance Engineer Enthusiast. </br>
 👨‍💻 I am passionate about Mobile Developer & I enjoy learning new things. </br>
-🏆 I am currently working as a QA Engineer and React&React Native Engineer at Beamco</br>
+🏆 I am currently working as a QA Engineer and React&React Native Engineer</br>
 
 <p align="left">
 <a href="https://github.com/dzik16">

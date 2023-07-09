@@ -1,4 +1,4 @@
-# Hi everyone! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, i'm [M. Dzikri Alfarisyi!](https://www.linkedin.com/in/dzik16/) 
+# Hi everyone! i'm [M. Dzikri Alfarisyi!](https://www.linkedin.com/in/dzik16/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 ### About Me 🚀
 🌱 I’m a Mobile Engineer Enthusiast. </br>
